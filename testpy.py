@@ -12,3 +12,4 @@ class tt:
 if __name__ == '__main__':
     c = tt()
     c.t1()
+    print('ok')
